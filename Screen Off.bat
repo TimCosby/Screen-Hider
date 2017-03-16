@@ -1,1 +1,1 @@
-start "" nircmd monitor off
+start "" nircmd monitor async_off
