@@ -1,1 +1,0 @@
-start "" nircmd monitor async_off
